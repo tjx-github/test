@@ -7,7 +7,8 @@
 <script>
 	export default{
 		data(){
-			ee:'sdsds'
+			ee:'sdsds',
+			d:"asdfsd"
 		},
 		mounted() {
 			
