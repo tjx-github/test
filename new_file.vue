@@ -41,3 +41,6 @@ a<transition
 </transition>fa<d v-for="item in items" :key="item.id">
 	{{ item }}
 </d>
+
+
+^^^^^^^^^^^^origin/master add
