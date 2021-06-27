@@ -2,7 +2,7 @@
 </template>
 
 <script>
-</script>
+</script>b 
 dsd 
 <style>
 </style>
