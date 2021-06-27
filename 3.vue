@@ -8,7 +8,7 @@
 	export default{
 		data(){
 			ee:'sds撒大声地ds',
-			d:"asdfsd"
+			d:"asdfsd二位"
 		},
 		mounted() {
 			
