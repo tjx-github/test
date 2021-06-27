@@ -28,7 +28,7 @@ asfda
 dfasdf
 dfasdfas
 dfas
-df
+df 
 a<transition
 	mode="out-in"
 	@before-enter="beforeEnter"
