@@ -49,3 +49,6 @@ a<transition
 	{{ item }}
 </d>
 
+
+
+vue/t add 哈哈哈啊哈
