@@ -81,3 +81,11 @@ asdfasdfa水电费哈哈 hh
 
 
 分支hh添加81行
+
+----------++++++++++++-------------
+
+function getKey($uid){
+	return $uid;
+}
+
+
